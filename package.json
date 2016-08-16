@@ -1,0 +1,17 @@
+{
+  "name": "uncss",
+  "version": "1.0.0",
+  "description": "uncss testing",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt-contrib-cssmin": "^1.0.1",
+    "grunt-uncss": "^0.6.1",
+    "gzip-js": "0.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
